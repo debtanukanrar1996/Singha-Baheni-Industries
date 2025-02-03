@@ -1,0 +1,177 @@
+@media only screen and (max-width: 1650px){
+    /*.menu_wrapper li a {padding: 0 30px;}*/
+    #process_span_3 {right: 27.5%;}
+
+
+
+}
+@media only screen and (max-width: 1500px){
+    /*.menu_wrapper li a {padding: 0 20px;}*/
+    #slide_prev{left: 21%;}
+    #slide_next{right: 21%;}
+    .chop_column{display: none;}
+    .secondlast_column{margin-right: 0 !important}
+    .every_home_wrapper.four_column .two_column {width: 48.5%;}
+    .every_home_wrapper .two_column {width: 48.5%;}
+    .every_home_wrapper .column {margin-right: 2.5%;}
+    .every_home_wrapper.five_column .column {    margin-right: 7.37%;    margin-left: 2.2%;}
+    .every_home_wrapper .one_column {width: 23.19%;}
+    .every_home_wrapper.five_column .one_column {width: 10.9%;}
+    .designguru_slider ul li div {padding: 8px 10px 10px 130px;height: 100px;}
+    .designguru_slider ul li {width: 23.4%;padding: 0 0.8%;}
+    .spotlight_slide {width: 18%;padding: 0 1%;}
+    .designguru_slider ul li p {max-height: 48px;overflow: hidden;}
+    #trending_items_wrap ul li {width: 17.5%;margin-right: 2.5%;}
+    .clip_sortby_wrap *{margin-right: -2px;}
+    #process_span_2 {left: 28.5%;}
+    #process_span_3 {right: 27%;}
+
+
+}
+
+@media only screen and (max-width: 1320px){
+    .clip_grid_wrapper, .middle_wrapper_1280{width: 96%;}
+    .clip_box.clip_sofa_col .non_fur_meta_1 div.sofa_meta_block {margin-right: 25px;width: auto}
+    .sub_header_1 a.middle, .sub_header_1 span.middle {margin: 0 7%;}
+    #process_span_2 {left: 27.5%;}
+    #process_span_3 {right: 26%;}
+    #vip_wrapper{width: 96%;}
+
+    .vip_details_wrapper {position: relative;width: 370px;}
+    .other_details_header a {margin-right: 35px;}
+    .vip_share_metabox{width: 100%;}
+    .vip_normal_wrap .vip_data#vip_sofa_data {width: auto;position: relative;float: none;margin-left: 450px;overflow: hidden;}
+    .vip_details_wrapper.width_100_per{margin-bottom: 35px;}
+    #vip_img_accordian ul li {width: 14%;}
+    #vip_img_accordian.acc_active ul li {width: 9.2%;}
+    .sofa_vip_gallery {width: 55%;}
+    #vip_sofa_data {width: 42%;}
+    .cs_form_slide_left {width: 40%;}
+    .cs_form_slide_right {width: 56%;}
+    .brands_grid_wrapper {width: 96%;}
+    
+    .fe_tooltip_fe:hover:after {background: rgba(0, 0, 0, 0.8) none repeat scroll 0 0;bottom: 21px;right: 94px;width: 200px;white-space: pre-wrap;text-align: center;}
+    .fe_tooltip_fe:hover:before {right: 85px;bottom: 39px;transform: rotate(-90deg);}
+}
+
+@media only screen and (max-width: 1350px){
+    /*Hover images positioning*/
+
+    #nav_housekeeping .menu_list_type_1
+    {
+        display:none;
+    }
+    #nav_home .menu_tab_img {
+        top: 10%;
+        right: -15%;
+    }
+    #nav_home .menu_list_type_2
+    {
+        display:block;
+    }
+}
+
+@media only screen and (max-width: 1280px){
+    /*Hover images positioning*/
+
+    #nav_furnishings .menu_tab_img{right: -20%;} //
+
+    #nav_lamps .menu_tab_img{right: 1%;} //
+
+    #nav_home .menu_tab_img,#nav_kitchen .menu_tab_img{right: -5%;} //
+
+    #nav_furniture .menu_tab_img {
+        top: 32%;
+        right: -17%;
+    }
+    #nav_bath .menu_tab_img {
+        right: -3%;
+        top: 10%;
+    }
+    #nav_housekeeping .menu_tab_img {
+        top: 30%;
+        right: -1%;
+    }
+    #nav_housekeeping .menu_list_type_2
+    {
+        display:none;
+    }
+    #nav_furniture .menu_tab_img{right: -12%;} //
+    #nav_home .menu_tab_img {
+        top: 10%;
+        right: -10%;
+    }
+    #nav_home .menu_list_type_2,#nav_furnishings .menu_list_type_2
+    {
+        display:none;
+    }
+    #nav_housekeeping .menu_list_type_1
+    {
+        display:block;
+    }
+    #nav_lamps .menu_tab_img {
+        right: -5% !important;
+    }
+    #nav_kitchen .menu_tab_img {
+        right: -6% !important;
+    }
+
+    .discount_block a {
+        display: block;
+        float: left;
+        overflow: hidden;
+        margin-right: 11px;
+        margin-bottom: 11px;
+
+    }
+
+    #slideshow
+    {
+        width:65.7%;
+    }
+
+    .discount_block{width: 16.2%;}
+
+}
+
+@media only screen and (max-width: 1170px){
+
+    #nav_housekeeping .menu_list_type_1
+    {
+        display:none;
+    }
+    .menu_list_type_1 .title_1 {
+        display: block;
+        font-size: 20px;
+    }
+    #nav_bath .menu_tab_img {
+        right: -13%;
+        top: 10%;
+    }
+    #nav_pet .menu_tab_img {
+        top: 20%;
+        right: -13%;
+    }
+    #nav_furniture .menu_tab_img {
+        top: 32%;
+        right: -27%;
+    }
+    #nav_lamps .menu_tab_img {
+        right: -9% !important;
+    }
+
+    #nav_kitchen .menu_tab_img {
+        right: -9% !important;
+    }
+
+}
+
+/*for Kitchen Customization*/
+@media only screen and (max-width: 1335px){
+    .book_site_visit{position: relative;width:auto;}
+    .book_form_container,.book_confirm{ position: fixed; top: 60px; display:none; background-color: #fff;padding: 15px; border: 1px solid #000; left: 0;right: 0; width: 340px; margin: 0 auto;z-index:999; }
+    .book_confirm{padding: 129px 15px;}
+    .book_form_container .popup_close{display:block;}
+    .book_close{display: none;}
+    .book_site_visit{z-index: auto;}
+}
